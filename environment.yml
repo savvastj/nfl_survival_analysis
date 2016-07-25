@@ -13,7 +13,6 @@ dependencies:
 - bokeh=0.11.1=py35_0
 - boto=2.39.0=py35_0
 - bottleneck=1.0.0=np110py35_0
-- brewer2mpl=1.4.1=py35_0
 - cffi=1.5.2=py35_0
 - chest=0.2.3=py35_0
 - cloudpickle=0.1.1=py35_0
@@ -39,7 +38,6 @@ dependencies:
 - fontconfig=2.11.1=5
 - freetype=2.5.5=0
 - gevent=1.1.0=py35_0
-- ggplot=0.9.4=py35_0
 - greenlet=0.4.9=py35_0
 - h5py=2.5.0=np110py35_4
 - hdf5=1.8.15.1=2
